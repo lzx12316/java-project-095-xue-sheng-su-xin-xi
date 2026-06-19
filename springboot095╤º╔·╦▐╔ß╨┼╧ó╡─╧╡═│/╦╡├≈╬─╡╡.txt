@@ -1,0 +1,21 @@
+Ƽʹãȸ
+
+
+ַ̨
+http://localhost:8080/springboot68ozj/admin/dist/index.html
+
+Ա  abo  abo
+
+
+ǰַ̨http://localhost:8080/springboot68ozj/front/index.html
+
+
+ 
+src\main\resources\application.ymlб༭
+											
+	 url: jdbc:mysql://127.0.0.1:3306/springboot68ozj?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+        username: root
+        password: 123456 ݿ룩
+
+
+ 
